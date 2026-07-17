@@ -1,5 +1,8 @@
 # 📦 Amazon Supply Chain & Operations Analytics Dashboard
 
+<img width="880" height="494" alt="image" src="https://github.com/user-attachments/assets/8412929b-2fc8-44e5-937e-a31ac9a08b34" />
+
+
 ## Project Overview
 
 This project focuses on designing an interactive **Amazon Supply Chain & Operations Analytics Dashboard** using **SQL** and **Microsoft Power BI**. The objective was to transform raw transactional data into meaningful business insights that support data-driven decision-making across various supply chain functions.
